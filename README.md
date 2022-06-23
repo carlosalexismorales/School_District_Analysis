@@ -146,12 +146,7 @@ There was minimal impact to school type by changing the 9th grade scores. As see
 
 ## Summary
 
-1. The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
-
-2. Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
-
-3. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
-
-4. In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
-
-The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
+1. Relacing the 9th graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet. 
+2. The overall passing rate for Thomas High School fell from 91% to 65%. 
+3. The district as a whole has also had its average math and reading scores decrease, as well as the overall passing percentage for students
+4. The school's ranking dropped from 2nd, down to the bottom 5
