@@ -101,10 +101,12 @@ Adjusted Average Reading Scores:
 
 
 Original Analysis:
+
 <img width="824" alt="Screen Shot 2022-06-22 at 9 46 39 PM" src="https://user-images.githubusercontent.com/102444078/175211428-4eee5c89-4c26-4134-95d4-0c42287f09af.png">
 
 
 Adjusted Analysis:
+
 <img width="829" alt="Screen Shot 2022-06-22 at 9 48 22 PM" src="https://user-images.githubusercontent.com/102444078/175212024-725a3437-6c17-45e9-a508-42391ed8a2df.png">
 
 
