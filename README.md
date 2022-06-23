@@ -99,15 +99,16 @@ Adjusted Average Reading Scores:
 
 ### Scores by school spending
 
-Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes. It is found that Average Scores and Passing Percentages do not increase as spending per student increases. In fact, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
 
 Original Analysis:
+<img width="824" alt="Screen Shot 2022-06-22 at 9 46 39 PM" src="https://user-images.githubusercontent.com/102444078/175211428-4eee5c89-4c26-4134-95d4-0c42287f09af.png">
 
 
 Adjusted Analysis:
+<img width="829" alt="Screen Shot 2022-06-22 at 9 48 22 PM" src="https://user-images.githubusercontent.com/102444078/175212024-725a3437-6c17-45e9-a508-42391ed8a2df.png">
 
 
-There was very little spending impact by changing the 9th grade scores.
+Thomas High School falls in the $630-$644/student spending range. As displayed in the images above, there are minimal changes - the scores and percentages are nearly identical. This indicates Average Scores and Passing Percentages do not increase as spending per student increases. This is backed up by the fact that Caberal Higgh School, the highest performing school in the  school district received $68 less per student than Johnson High School, which was the lowest performing. In addition, this also indicates that funds do not correlate to how well a school performs - there are other key factors that contribue to how a school performs. 
 
 ### Scores by school size
 
