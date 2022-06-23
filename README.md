@@ -1,6 +1,6 @@
 # School_District_Analysis_Challenge
 
-Using Pandas, Python and Jupyter notebook for school districtt analysis
+Using Pandas, Python and Jupyter notebook for school district analysis
 
 ## Project Overview
 
