@@ -126,10 +126,7 @@ Adjusted Analysis:
 
 
 
-Thomas High School is defined as a medium sized school.
-The hundredths place was needed to see the nominal changes.
-When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools.
-This may be an indication that students in this district learn and perform better in smaller, more intimate settings.There was very little impact by campus size due to changing the 9th grade scores.
+Thomas High School is defined as a medium sized school. As illustrated in the images above, there are miniscule changes. However, when examining the date a bit closer, we can see how school Sizes do have an impact on scores and percentages. For example, "Large Schools" have the lowest average scores and passing percentages. Whereas "Small" and "Medium" Size Schools have considerably scores and percentages. This indicates that perhaps a smaller setting, where students might receive more one-on-one guidance and tutoring can best help scores be as high as possible. They might be able to learn better and as result score better as well.
 
 ### Scores by school type
 
