@@ -110,22 +110,26 @@ Adjusted Analysis:
 <img width="829" alt="Screen Shot 2022-06-22 at 9 48 22 PM" src="https://user-images.githubusercontent.com/102444078/175212024-725a3437-6c17-45e9-a508-42391ed8a2df.png">
 
 
-Thomas High School falls in the $630-$644/student spending range. As displayed in the images above, there are minimal changes - the scores and percentages are nearly identical. This indicates Average Scores and Passing Percentages do not increase as spending per student increases. This is backed up by the fact that Caberal Higgh School, the highest performing school in the  school district received $68 less per student than Johnson High School, which was the lowest performing. In addition, this also indicates that funds do not correlate to how well a school performs - there are other key factors that contribue to how a school performs. 
+Thomas High School falls in the $630-$644/student spending range. As displayed in the images above, there are minimal changes - the scores and percentages are nearly identical.  In addition, this also indicates that funds do not correlate to how well a school performs - there are other key factors that contribue to how a school performs. This is backed up by the fact that Caberal Higgh School, the highest performing school in the  school district received $68 less per student than Johnson High School, which was the lowest performing. 
 
 ### Scores by school size
 
-Thomas High School is defined as a medium sized school.
-The hundredths place was needed to see the nominal changes.
-When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools.
-This may be an indication that students in this district learn and perform better in smaller, more intimate settings.
 
 Original Analysis:
+
+<img width="755" alt="Screen Shot 2022-06-22 at 10 00 57 PM" src="https://user-images.githubusercontent.com/102444078/175216614-6ef8f23a-0547-4061-849b-c047cd50891b.png">
 
 
 Adjusted Analysis:
 
+<img width="756" alt="Screen Shot 2022-06-22 at 10 01 39 PM" src="https://user-images.githubusercontent.com/102444078/175216845-1748758c-3c1e-431f-9973-0d611c1abc29.png">
 
-There was very little impact by campus size due to changing the 9th grade scores.
+
+
+Thomas High School is defined as a medium sized school.
+The hundredths place was needed to see the nominal changes.
+When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools.
+This may be an indication that students in this district learn and perform better in smaller, more intimate settings.There was very little impact by campus size due to changing the 9th grade scores.
 
 ### Scores by school type
 
