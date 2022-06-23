@@ -34,11 +34,11 @@ The school board has notified Maria and her supervisor that the students_complet
 ### How is the district summary affected?
 
 Original District Summary DataFrame:
-<img width="1002" alt="Screen Shot 2022-06-22 at 8 08 42 PM" src="https://user-images.githubusercontent.com/102444078/175198828-6fd4942e-17f3-4cdc-b006-8983ea99ac5e.png">
+<img width="921" alt="Screen Shot 2022-06-22 at 8 35 48 PM" src="https://user-images.githubusercontent.com/102444078/175203603-8836bb0a-24ae-4a97-b161-2715cd2e35f9.png">
 
 
 Adjusted District Summary DataFrame:
-<img width="1002" alt="Screen Shot 2022-06-22 at 8 09 04 PM" src="https://user-images.githubusercontent.com/102444078/175198869-f61948f1-fc48-41b0-986f-e92f59b84b6d.png">
+<img width="922" alt="Screen Shot 2022-06-22 at 8 35 25 PM" src="https://user-images.githubusercontent.com/102444078/175203563-f4b4f970-364e-464c-a6e1-7244fd00a181.png">
 
 
 
@@ -47,10 +47,10 @@ Analysis: The testing data for the 461 9th graders at Thomas High School was tur
 ### How is the school summary affected?
 
 Original Analysis:
-<img width="921" alt="Screen Shot 2022-06-22 at 8 35 48 PM" src="https://user-images.githubusercontent.com/102444078/175203603-8836bb0a-24ae-4a97-b161-2715cd2e35f9.png">
+
 
 Adjusted Analysis:
-<img width="922" alt="Screen Shot 2022-06-22 at 8 35 25 PM" src="https://user-images.githubusercontent.com/102444078/175203563-f4b4f970-364e-464c-a6e1-7244fd00a181.png">
+
 
 
 
