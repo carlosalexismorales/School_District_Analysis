@@ -118,7 +118,7 @@ Adjusted Analysis:
 
 There was very little impact by school type by changing the 9th grade scores.
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
 
 1. The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
 
