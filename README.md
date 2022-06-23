@@ -83,7 +83,7 @@ Adjusted Analysis:
 
 ### Adjusted Averages using the Math and Reading Scores
 
-In the original data, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade, which matched, exceeded, or came close to the highest averages from every other school. It’s important that we realize that adding or removing an extreme value from the data set will affect the mean, but since these averages weren't too far off, there wasn't too drastic of a change. Since the scores were replaced with null values, which is considered missing data, it shows up in Python programming as NaN in the following charts.
+Even after changing the 9th grade scores, there is little change. In the original data, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade, which matched, exceeded, or came close to the highest averages from every other school. It’s important that we realize that adding or removing an extreme value from the data set will affect the mean, but since these averages weren't too far off, there wasn't too drastic of a change. Since the scores were replaced with null values, which is considered missing data, it shows up in Python programming as NaN in the following charts.
 
 Adjusted Average Math Scores:
 
@@ -110,7 +110,7 @@ Adjusted Analysis:
 <img width="829" alt="Screen Shot 2022-06-22 at 9 48 22 PM" src="https://user-images.githubusercontent.com/102444078/175212024-725a3437-6c17-45e9-a508-42391ed8a2df.png">
 
 
-Thomas High School falls in the $630-$644/student spending range. As displayed in the images above, there are minimal changes - the scores and percentages are nearly identical.  In addition, this also indicates that funds do not correlate to how well a school performs - there are other key factors that contribue to how a school performs. This is backed up by the fact that Caberal Higgh School, the highest performing school in the  school district received $68 less per student than Johnson High School, which was the lowest performing. 
+There was very little minimal impact even after changing the 9th grade scores. For example, High School falls in the $630-$644/student spending range. As displayed in the images above, there are minimal changes - the scores and percentages are nearly identical.  In addition, this also indicates that funds do not correlate to how well a school performs - there are other key factors that contribue to how a school performs. This is backed up by the fact that Caberal Higgh School, the highest performing school in the  school district received $68 less per student than Johnson High School, which was the lowest performing. 
 
 ### Scores by school size
 
@@ -126,24 +126,23 @@ Adjusted Analysis:
 
 
 
-Thomas High School is defined as a medium sized school. As illustrated in the images above, there are miniscule changes. However, when examining the date a bit closer, we can see how school Sizes do have an impact on scores and percentages. For example, "Large Schools" have the lowest average scores and passing percentages. Whereas "Small" and "Medium" Size Schools have considerably scores and percentages. This indicates that perhaps a smaller setting, where students might receive more one-on-one guidance and tutoring can best help scores be as high as possible. They might be able to learn better and as result score better as well.
+There was very little impact by campus size even after changing the 9th grade scores. Thomas High School is defined as a medium sized school. As illustrated in the images above, there are miniscule changes. However, when examining the date a bit closer, we can see how school Sizes do have an impact on scores and percentages. For example, "Large Schools" have the lowest average scores and passing percentages. Whereas "Small" and "Medium" Size Schools have considerably higher scores and percentages. This indicates that perhaps a smaller setting, where students might receive more one-on-one guidance and tutoring can best help scores be as high as possible. They might be able to learn better and as result score better as well.
 
 ### Scores by school type
 
-Thomas High School is a charter school type.
-The hundredths place was needed to see the nominal changes.
-Charter schools generally performed better than District schools in this analysis.
-The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools.
-Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools.
-As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
 
 Original Analysis:
+
+<img width="723" alt="Screen Shot 2022-06-22 at 10 08 43 PM" src="https://user-images.githubusercontent.com/102444078/175219115-8556901d-7ac7-44dd-906f-0e63629ca01f.png">
 
 
 Adjusted Analysis:
 
+<img width="722" alt="Screen Shot 2022-06-22 at 10 09 22 PM" src="https://user-images.githubusercontent.com/102444078/175219344-4290534d-1730-4a9f-8114-f445f55e7525.png">
 
-There was very little impact by school type by changing the 9th grade scores.
+
+
+There was minimal impact to school type by changing the 9th grade scores. As seen in the images above, charter schools still tend to perform better than district schools even after the data was changed. The correlation here is that District schools are classified as "Large" schools, which as already indicated, tend to perform worse than smaller setting schools, which includes charters. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. In addition, Charter schools have a 36% higher overall passing percentage than District schools. 
 
 ## Summary
 
