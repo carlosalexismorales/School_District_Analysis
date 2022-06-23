@@ -42,7 +42,7 @@ Adjusted District Summary DataFrame:
 
 
 
-Analysis: The testing data for the 461 9th graders at Thomas High School was turned into null or NaN data. This subsequently recalculated the percentages of passing math, passing reading, and the overall passing. However, removing only 461 test scores did not have a huge impact of the vast data set. Reviewing these two district summaries, we can see that it was a marginal change at most with the differences being minimal. If we were to the round the data to the nearest whole number, they appear to be almost identical. We would have to scrutinize the data and look very closely to see any changes, but this wouldn't be very useful at all.
+The testing data for the 461 9th graders at Thomas High School was turned into null or NaN data. This subsequently recalculated the percentages of passing math, passing reading, and the overall passing. However, removing only 461 test scores did not have a huge impact of the vast data set. Reviewing these two district summaries, we can see that it was a marginal change at most with the differences being minimal. If we were to the round the data to the nearest whole number, they appear to be almost identical. We would have to scrutinize the data and look very closely to see any changes, but this wouldn't be very useful at all.
 
 ### How is the school summary affected?
 
@@ -61,15 +61,22 @@ After the data from Thomas High School was marked for review, we can adjusted th
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-When we listed the school relative to their performances in the original analysis, we can see that Thomas High School ranked 2nd in the district. This indicated that they were tested extremely well, but also marked an audit for grade alteration.
 
 Original Analysis:
+<img width="1000" alt="Screen Shot 2022-06-22 at 8 47 48 PM" src="https://user-images.githubusercontent.com/102444078/175204803-22e17a20-c26d-4da5-9f19-af36e32d5ff3.png">
 
-
-After adjusting the 9th grade data with NaNs, Thomas High School fell in their rankings, respectively to the bottom 5 schools in passing percentages. They dropped to being the 13th out of 15 schools.
 
 Adjusted Analysis:
 
+
+
+- There are several things we must be attentive to when we replace the ninth graders' math and reading scores: 
+-- When we listed the school relative to their performances in the original analysis, we can see that Thomas High School ranked 2nd in the district. This indicated that they were tested extremely well, but also marked an audit for grade alteration. 
+-- After adjusting the 9th grade data with NaNs, Thomas High School fell in their rankings, respectively to the bottom 5 schools in passing percentages. 
+
+- When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
+-- Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
+-- The overall passing percentages of Thomas High School decreased by 0.11%
 
 ## How does replacing the ninth-grade scores affect the following:
 
