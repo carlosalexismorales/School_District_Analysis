@@ -63,11 +63,12 @@ After the data from Thomas High School was marked for review, we can adjusted th
 
 
 Original Analysis:
-<img width="1000" alt="Screen Shot 2022-06-22 at 8 47 48 PM" src="https://user-images.githubusercontent.com/102444078/175204803-22e17a20-c26d-4da5-9f19-af36e32d5ff3.png">
+<img width="989" alt="Screen Shot 2022-06-22 at 9 16 55 PM" src="https://user-images.githubusercontent.com/102444078/175207896-a7b52140-b8c2-4d2a-baae-4eb086d58c63.png">
+
 
 
 Adjusted Analysis:
-
+<img width="1000" alt="Screen Shot 2022-06-22 at 8 47 48 PM" src="https://user-images.githubusercontent.com/102444078/175204803-22e17a20-c26d-4da5-9f19-af36e32d5ff3.png">
 
 
 - There are several things we must be attentive to when we replace the ninth graders' math and reading scores: 
