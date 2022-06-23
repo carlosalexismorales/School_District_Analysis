@@ -8,16 +8,16 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Challenge Overview
 
-1. Open Jupyter Notebook files from local directories using a development environment.
-2. Read an external CSV file into a DataFrame.
-3. Format a DataFrame column.
-4. Determine data types of row values in a DataFrame.
-5. Retrieve data from specific columns of a DataFrame.
-6. Merge, filter, slice, and sort a DataFrame.
-7. Apply the groupby() function to a DataFrame.
+1. Opening Jupyter Notebook files from local directories using a development environment.
+2. Reading an external CSV file into a DataFrame.
+3. Formating a DataFrame column.
+4. Determining data types of row values in a DataFrame.
+5. Retrieving data from specific columns of a DataFrame.
+6. Merging, filtering, slicing, and sorting a DataFrame.
+7. Applying the Pandas groupby() function to a DataFrame.
 8. Using the Pandas loc() method with conditional statements and comparison and logical operators
-9. Use multiple methods to perform a function on a DataFrame.
-10. Perform mathematical calculations on columns of a DataFrame or Series.
+9. Using multiple methods to perform a function on a DataFrame.
+10. Performing mathematical calculations on columns of a DataFrame or Series.
 
 ## Resources
 
