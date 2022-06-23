@@ -46,15 +46,15 @@ Analysis: The testing data for the 461 9th graders at Thomas High School was tur
 
 ### How is the school summary affected?
 
-As we can see in the original school summary, Thomas High School started with a 93% passing math score, a 97% passing reading score, and a 90% overall passing rate - this was marked by the school board for review since these numbers did not appear to be genuine.
-
 Original Analysis:
-
+<img width="995" alt="Screen Shot 2022-06-22 at 8 31 06 PM" src="https://user-images.githubusercontent.com/102444078/175203136-ddd2d45c-ea96-4528-9729-2504b8c61b9f.png">
 
 Adjusted Analysis:
+<img width="990" alt="Screen Shot 2022-06-22 at 8 31 39 PM" src="https://user-images.githubusercontent.com/102444078/175203188-4d6ad4dd-1339-4e9d-af0d-e5e8012be38b.png">
 
 
-After the data from Thomas High School was marked for review, we can adjusted the data to correctly reflect the alterations that were made. We replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. As we can see from the screenshot above, there was a huge impact to the percentages when we removed the 9th grade students data. Passing math dropped to 66%, while passing reading dropped to 69%, and overall passing fell to 65%.
+After the data from Thomas High School was marked for review, we can adjusted the data to correctly reflect the alterations that were made. We replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. As we can see from the screenshot above, there was a huge impact to the percentages when we removed the 9th grade students data. Passing math dropped to 66%, while passing reading dropped to 69%, and overall passing fell to 65%. As we can see in the original school summary, Thomas High School started with a 93% passing math score, a 97% passing reading score, and a 90% overall passing rate - this was marked by the school board for review since these numbers did not appear to be genuine.
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
