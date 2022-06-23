@@ -33,11 +33,11 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ### How is the district summary affected?
 
-Original File:
+Original District Summary DataFrame:
 <img width="1002" alt="Screen Shot 2022-06-22 at 8 08 42 PM" src="https://user-images.githubusercontent.com/102444078/175198828-6fd4942e-17f3-4cdc-b006-8983ea99ac5e.png">
 
 
-Adjusted File:
+Adjusted District Summary DataFrame:
 <img width="1002" alt="Screen Shot 2022-06-22 at 8 09 04 PM" src="https://user-images.githubusercontent.com/102444078/175198869-f61948f1-fc48-41b0-986f-e92f59b84b6d.png">
 
 
