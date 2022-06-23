@@ -71,7 +71,7 @@ Adjusted Analysis:
 
 
 - There are several things we must be attentive to when we replace the ninth graders' math and reading scores: 
--- When we listed the school relative to their performances in the original analysis, we can see that Thomas High School ranked 2nd in the district. This indicated that they were tested extremely well, but also marked an audit for grade alteration. 
+- - When we listed the school relative to their performances in the original analysis, we can see that Thomas High School ranked 2nd in the district. This indicated that they were tested extremely well, but also marked an audit for grade alteration. 
 -- After adjusting the 9th grade data with NaNs, Thomas High School fell in their rankings, respectively to the bottom 5 schools in passing percentages. 
 
 - When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
