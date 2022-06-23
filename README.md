@@ -21,13 +21,13 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Resources
 
--- Anaconda version 1.10.0
--- Conda version 4.13.3
--- Python version 3.9.12
--- Jupyter-Notebook version 6.4.11
--- Pandas version 1.4.2
--- ipykernal version 6.9.1
--- Numpy version 1.21.5
+- Anaconda version 1.10.0
+- Conda version 4.13.3
+- Python version 3.9.12
+- Jupyter-Notebook version 6.4.11
+- Pandas version 1.4.2
+- ipykernal version 6.9.1
+- Numpy version 1.21.5
 
 ## Results
 
