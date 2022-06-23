@@ -47,9 +47,11 @@ Analysis: The testing data for the 461 9th graders at Thomas High School was tur
 ### How is the school summary affected?
 
 Original Analysis:
+<img width="990" alt="Screen Shot 2022-06-22 at 8 41 23 PM" src="https://user-images.githubusercontent.com/102444078/175204178-417e7daf-d538-4bde-bc9b-f43e062d1f59.png">
 
 
 Adjusted Analysis:
+<img width="994" alt="Screen Shot 2022-06-22 at 8 39 34 PM" src="https://user-images.githubusercontent.com/102444078/175203987-12cea3c2-5470-4f29-ac39-ae4e5aadf8cd.png">
 
 
 
